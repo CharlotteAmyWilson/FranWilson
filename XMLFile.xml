@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<galleries>
+    <gallery Id="1" Name="Pots" Description="Thrown and hand crafted Ceramics" MainImagePath="galleryimg7.jpg" SubImagePath="galleryimg5.jpg" >
+        <artworks>
+            <leftartwork Lightbox="lightbox1" GalleryName="Pots" Name="Slabwork 1"  ImagePath="20p1000.jpg" Medium="Stoneware"></leftartwork>
+            <leftartwork Lightbox="lightbox1" GalleryName="Pots" Name="Slabwork 2" ImagePath="20p21000.jpg" Medium="Stoneware"></leftartwork>
+            <leftartwork Lightbox="lightbox1" GalleryName="Pots" Name="Midlife" ImagePath="midlife01a.jpg" Medium="stoneware"></leftartwork>
+            <middleartwork Lightbox="lightbox1" GalleryName="Pots" Name="Midlife 7" ImagePath="ml07.jpg" Medium="stoneware"></middleartwork>
+            <middleartwork Lightbox="lightbox1" GalleryName="Pots" Name="Raku" ImagePath="raku02f300.jpg" Medium="raku"></middleartwork>
+            <middleartwork Lightbox="lightbox1" GalleryName="Pots" Name="purple, orange, pink" ImagePath="purpleorangepinkt.jpg" Medium="stoneware"></middleartwork>
+            <middleartwork Lightbox="lightbox1" GalleryName="Pots" Name="Midlife 2" ImagePath="midlife02.jpg" Medium="Stoneware"></middleartwork>
+            <rightartwork Lightbox="lightbox1" GalleryName="Pots" Name="Raku 1" ImagePath="rakugreencraze1.jpg" Medium="raku"></rightartwork>
+            <rightartwork Lightbox="lightbox1" GalleryName="Pots" Name="spots and stripes" ImagePath="spots and stripes 00.jpg" Medium="Stoneware"></rightartwork>
+            <rightartwork Lightbox="lightbox1" GalleryName="Pots" Name="spots and stripes 2" ImagePath="spots and stripes 00b.jpg" Medium="Stoneware"></rightartwork>
+        </artworks>
+    </gallery>
+    
+    <gallery Id="2" Name="Abstract" Description="Abstracted Landscapes and Seascapes" MainImagePath="galleryimg6.jpg" SubImagePath="galleryimg15.jpg" MainImageName="Abstract Artwork 1">
+        <artworks>
+            <leftartwork Lightbox="lightbox2" GalleryName="Abstract" Name="chalfont gardens" ImagePath="chalfontgdnslg.jpg" Medium="acrylic"></leftartwork>
+            <leftartwork Lightbox="lightbox2" GalleryName="Abstract" Name="dark night" ImagePath="darknight250.jpg" Medium="acrylic"></leftartwork>
+            <leftartwork Lightbox="lightbox2" GalleryName="Abstract" Name="liquid" ImagePath="liquid 00.jpg" Medium="acrylic"></leftartwork>
+            <leftartwork Lightbox="lightbox2" GalleryName="Abstract" Name="orange square" ImagePath="orange sq.jpg" Medium="Gouache"></leftartwork>
+            <leftartwork Lightbox="lightbox2" GalleryName="Abstract" Name="blue and purple" ImagePath="blue and purple 1.jpg" Medium="acrylic"></leftartwork>
+            <leftartwork Lightbox="lightbox2" GalleryName="Abstract" Name="turquoise 1" ImagePath="turquoise 1.jpg" Medium="acrylic"></leftartwork>
+            <middleartwork Lightbox="lightbox2" GalleryName="Abstract" Name="field" ImagePath="field400.jpg" Medium="acrylic"></middleartwork>
+            <middleartwork Lightbox="lightbox2" GalleryName="Abstract" Name="moon glade" ImagePath="moon-gladelg.jpg" Medium="acrylic"></middleartwork>
+            <middleartwork Lightbox="lightbox2" GalleryName="Abstract" Name="purple square" ImagePath="purple sq.jpg" Medium="Gouache"></middleartwork>
+            <middleartwork Lightbox="lightbox2" GalleryName="Abstract" Name="pink square" ImagePath="pink sq.jpg" Medium="Gouache"></middleartwork>
+            <middleartwork Lightbox="lightbox2" GalleryName="Abstract" Name="blue and purple 2" ImagePath="blue and purple 2.jpg" Medium="acrylic"></middleartwork>
+            <rightartwork Lightbox="lightbox2" GalleryName="Abstract" Name="lava pool" ImagePath="sallyann250.jpg" Medium="acrylic"></rightartwork>
+            <rightartwork Lightbox="lightbox2" GalleryName="Abstract" Name="chalfont gardens 3" ImagePath="cg3.jpg" Medium="acrylic"></rightartwork>
+            <rightartwork Lightbox="lightbox2" GalleryName="Abstract" Name="underwater" ImagePath="underwater350.jpg" Medium="acrylic"></rightartwork>
+            <rightartwork Lightbox="lightbox2" GalleryName="Abstract" Name="pink landscape" ImagePath="4 of 4.jpg" Medium="Gouache"></rightartwork>
+            <rightartwork Lightbox="lightbox2" GalleryName="Abstract" Name="blue and purple 3" ImagePath="blue and purple 3.jpg" Medium="acrylic"></rightartwork>
+            <rightartwork Lightbox="lightbox2" GalleryName="Abstract" Name="clear day" ImagePath="clear-day-400.jpg" Medium="acrylic"></rightartwork>
+        </artworks>
+
+    </gallery>
+    
+    <gallery Id="3" Name="Portrait"  Description="Children's portraits" MainImagePath="galleryimg11.jpg" SubImagePath="galleryimg9.jpg">
+        <artworks>
+            <leftartwork Lightbox="lightbox3" GalleryName="Portrait" Name="childrens portrait" ImagePath="childrens-portrait-350.jpg" Medium="acrylic"></leftartwork>
+            <middleartwork Lightbox="lightbox3" GalleryName="Portrait"  Name="the painted boy" ImagePath="painted-boy-400.jpg" Medium="acrylic"></middleartwork>
+            <rightartwork Lightbox="lightbox3" GalleryName="Portrait" Name="children everywhere" ImagePath="wexham-portrait-panel-350.jpg" Medium="acrylic"></rightartwork>
+            <rightartwork Lightbox="lightbox3" GalleryName="Portrait" Name="two boys" ImagePath="two-boys-400.jpg" Medium="acrylic"></rightartwork>
+        </artworks>
+    </gallery>
+    
+    <gallery Id="4" Name="Sculpture"  Description="Clay Sculptures"  MainImagePath="galleryimg12.jpg" SubImagePath="galleryimg8.jpg">
+        <artworks>
+            <leftartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="beer girl" ImagePath="beergirlb.jpg" Medium="Stoneware"></leftartwork>
+            <leftartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="naughty students" ImagePath="bloody-students-tube-sculpture-400.jpg" Medium="Stoneware"></leftartwork>
+            <middleartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="sexy" ImagePath="sexy-tube-sculpture-350.jpg" Medium="Stoneware"></middleartwork>
+            <middleartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="charl" ImagePath="charl 2.jpg" Medium="Stoneware"></middleartwork>
+            <middleartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="piggy back" ImagePath="piggy-back-tube-sculpture-400.jpg" Medium="Stoneware"></middleartwork>
+            <rightartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="sam" ImagePath="sam 4.jpg" Medium="Stoneware"></rightartwork>
+            <rightartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="shag" ImagePath="shag-tube-sculpture-350.jpg" Medium="Stoneware"></rightartwork>
+            <rightartwork Lightbox="lightbox4" GalleryName="Sculpture" Name="bumper trio" ImagePath="bumpertrio1.jpg" Medium="Stoneware"></rightartwork>
+        </artworks>
+    </gallery>
+    
+    <gallery Id="5" Name="Landscape"  Description="Paintings en plein air"   MainImagePath="galleryimg13.jpg" SubImagePath="galleryimg14.jpg">
+        <artworks>
+            <leftartwork Lightbox="lightbox5" GalleryName="Landscape" Name="back garden" ImagePath="back-garden-summer-time-400.jpg" Medium="Gouache"></leftartwork>
+            <leftartwork Lightbox="lightbox5" GalleryName="Landscape" Name="back where it started" ImagePath="back-where-i-started-mumfords-lane-350.jpg" Medium="Gouache"></leftartwork>
+            <leftartwork Lightbox="lightbox5" GalleryName="Landscape" Name="grand lorel" ImagePath="grandlorel1350.jpg" Medium="Gouache"></leftartwork>
+            <middleartwork Lightbox="lightbox5" GalleryName="Landscape" Name="gardener" ImagePath="winter-hill-house-gardener-400.jpg" Medium="Gouache"></middleartwork>
+            <middleartwork Lightbox="lightbox5" GalleryName="Landscape" Name="deep in the woods" ImagePath="really-in-the-woods-chalfont-st-giles-350.jpg" Medium="Gouache"></middleartwork>
+            <middleartwork Lightbox="lightbox5" GalleryName="Landscape" Name="naughty dog" ImagePath="remenham-by-the-river-thames- naughty-dog-400.jpg" Medium="Gouache"></middleartwork>
+            <rightartwork Lightbox="lightbox5" GalleryName="Landscape" Name="wheat field" ImagePath="wheat-field-rickmansworth-lane-350.jpg" Medium="Gouache"></rightartwork>
+            <rightartwork Lightbox="lightbox5" GalleryName="Landscape" Name="in the woods" ImagePath="in-the-woods-350.jpg" Medium="acrylic"></rightartwork>
+            <rightartwork Lightbox="lightbox5" GalleryName="Landscape" Name="the magnificent seven" ImagePath="the-magnificent-seven-350.jpg" Medium="acrylic"></rightartwork>
+        </artworks>        
+    </gallery>
+    
+    <gallery Id="6" Name="Figurative" MainImagePath="galleryimg5.jpg" SubImagePath="galleryimg9.jpg">
+        <artworks>
+            <leftartwork Lightbox="lightbox6" GalleryName="Figurative" Name="music player" ImagePath="music-player-400.jpg" Medium="Gouache"></leftartwork>
+            <leftartwork Lightbox="lightbox6" GalleryName="Figurative" Name="waiting" ImagePath="waiting-400.jpg" Medium="Gouache"></leftartwork>
+            <leftartwork Lightbox="lightbox6" GalleryName="Figurative" Name="why when what how?" ImagePath="why-when-what-how-400.jpg" Medium="Gouache"></leftartwork>
+            <middleartwork Lightbox="lightbox6" GalleryName="Figurative" Name="mobile phone" ImagePath="mobile-phone-400.jpg" Medium="Gouache"></middleartwork>
+            <middleartwork Lightbox="lightbox6" GalleryName="Figurative" Name="loved up" ImagePath="loved-up-400.jpg" Medium="Gouache"></middleartwork>
+            <middleartwork Lightbox="lightbox6" GalleryName="Figurative" Name="snow balls" ImagePath="snowballs600.jpg" Medium="Gouache"></middleartwork>
+            <rightartwork Lightbox="lightbox6" GalleryName="Figurative" Name="looking out" ImagePath="looking-out-400.jpg" Medium="Gouache"></rightartwork>
+            <rightartwork Lightbox="lightbox6" GalleryName="Figurative" Name="out in the cold" ImagePath="outinthecold450.jpg" Medium="Gouache"></rightartwork>
+            <rightartwork Lightbox="lightbox6" GalleryName="Figurative" Name="princess samantha" ImagePath="princess-samantha-400.jpg" Medium="Gouache"></rightartwork>
+        
+        </artworks>
+    </gallery>
+
+    <gallery Id="7" Name="Like mother like daughter">
+        <artworks>
+            <leftartwork Lightbox="lightbox7" GalleryName="MotherAndDaughter" Name="self portrait" ImagePath="CharlottePortrait.jpg" Medium="acrylic by Charlotte Wilson"></leftartwork>
+            <middleartwork Lightbox="lightbox7"  GalleryName="MotherAndDaughter" Name="Charlotte and Nicky" ImagePath="CharlotteAndNicky.jpg" Medium="Pencil by Charlotte Wilson"></middleartwork>
+            <rightartwork Lightbox="lightbox7" GalleryName="MotherAndDaughter" Name="dolphin" ImagePath="dolphin.jpg" Medium="Stoneware by Kathy Sharpe"></rightartwork>           
+           
+        </artworks>
+    </gallery>
+</galleries>

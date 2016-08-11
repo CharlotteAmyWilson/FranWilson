@@ -1,0 +1,574 @@
+﻿html,body {padding:0; margin:0;}
+
+body
+{
+    color:#222;
+    /*font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;*/
+    margin: 0px;
+    font-family: "minion-pro",sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+p
+{
+    line-height: 1.4;
+    font-size: 14px;
+   /* font-family: 'FranklinGothicBookCon', arial;
+    color: black;
+    letter-spacing: 1px;*/
+    margin:0px;
+}
+
+#about p
+{
+    width:400px;
+    text-align:center;
+    margin: 10px auto;
+}
+
+#header
+{
+    color: #FFF;
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: 0.8em;
+    font-family: 'FranklinGothicBookCon', arial;
+    font-weight: 100;
+    margin-top:20px;
+}
+
+#subheader
+{
+    color: #AAA;
+    letter-spacing: 0.4em;
+    font-family: 'FranklinGothicBookCon', arial;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 110%;     
+    margin-top:20px;
+}
+
+h1
+{
+    font-size: 22px;
+	font-weight:bold;
+	vertical-align: middle;
+	line-height: 120%;
+	text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-bottom: 5px;
+}
+
+h2 
+{
+	vertical-align: middle;
+	line-height: 120%;
+	text-transform: uppercase;
+    font-size: 14px;
+    color:#999999;
+    margin-bottom: 40px;
+    padding-top: 7px;
+    letter-spacing: 3px;
+}
+
+h5
+{
+    color:#FFF;
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: 0.3em;
+    font-family: 'FranklinGothicBookCon', arial;
+    line-height: 110%;
+}
+
+.banner
+{
+    margin: 0;
+    height:150px;
+    background: #000;
+}
+
+.banner div
+{
+    width: 1000px;
+    margin: 0px auto;
+    padding: 20px 0 0 20px;
+}
+
+
+.text
+{
+	overflow:hidden;
+}
+
+
+a h3, a h4
+{
+	font-family: 'FranklinGothicBookCon', Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFF;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration:none;
+}
+
+a h3
+{
+	font-size: 22px;
+	vertical-align: middle;
+	line-height: 120%;
+	padding: 0px 15px 0px;
+}
+
+a h4
+{
+	padding: 0px 22px;
+	margin: 0;
+}
+
+.bottomNav
+{
+    margin: 20px auto 10px auto;
+    font-family: 'FranklinGothicBookCon', arial;
+    font-size:13px;
+    color: #666;	
+    text-transform:uppercase;
+    letter-spacing: 1px;
+    width: 1000px;   
+
+}
+
+.bottomNav
+{
+    width: 1000px;
+	margin: 10px auto;
+	padding: 25px 0px 0px 20px;
+	
+}
+
+.shadow {
+box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+-webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+
+.fixed 
+{
+    position:fixed;
+	top:5px;
+	left:0px;
+	width:100%;
+	background-color:#FFF;
+	padding: 20px auto 10px auto;
+    font-family: 'FranklinGothicBookCon', arial;
+    font-size:13px;
+    color: #666;	
+    text-transform:uppercase;
+    letter-spacing: 1px;
+}
+
+.topNav
+{
+    width: 1000px;
+    height: 50px;
+    margin: 20px auto 10px auto;
+    font-family: 'FranklinGothicBookCon', arial;
+    font-size:13px;
+    color: #666;	
+    text-transform:uppercase;
+    letter-spacing: 1px;
+    
+}
+
+.topNav a, bottomNav a
+{    
+    text-decoration:none;
+    padding: 1px;
+    margin: 19px;
+    color: #000; 
+    
+    
+}
+
+.topNav a:hover 
+{
+    border-bottom: 1px black solid;
+}
+
+.topNav a:active 
+{
+    border-bottom: 1px black solid;
+}
+
+
+.scapesFineArt
+{
+	color: #666;
+}
+
+.footer
+{
+    background:#EEE;
+    overflow:auto;
+}
+
+.bottomNav div
+{
+    width: 180px;
+    height:200px;
+    float:left;
+    background-color: #EEE;
+	margin: 0px 20px 25px 0px;
+	font-size: 11px;
+	text-align:left;
+}
+
+#topnav 
+{
+    float: right;
+    width: 100px;
+}
+
+#topnav ul
+{
+    height: 100px;
+    top: 0;
+}
+
+#topnav li
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width:20px;
+    
+}
+
+#topnav a
+{
+    color:White;
+}
+
+#topnav a:hover
+{
+   background-color:Aqua; 
+}
+
+.content, #about
+{
+    width: 1000px;
+	height: 420px;
+	margin: 0 auto;
+	padding: 20px 0 0 20px;
+}
+
+#about
+{
+    width:960px;
+    height: 960px;
+    margin-top: 20px;
+    background-color: #f6f6f6;
+}
+
+.welcome 
+{
+	overflow:hidden;
+}
+
+
+#about h3
+{
+    
+    width:250px;
+    text-align: center;
+    margin:20px auto;
+}
+
+.gallerycontent h3
+{
+    margin-top:20px;
+}
+
+
+#about img
+{   
+    border: 10px solid white;
+    width: 500px;
+    display:block;
+    margin:20px auto;
+}
+
+.verticallink
+{    
+    width:60px;
+    float:right;
+}
+
+.verticallink a
+{
+    color:#AAA;
+    background-image:url('down.png');
+    background-repeat:no-repeat;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 24px!important;
+    word-wrap: break-word;
+    width: 10px;  
+    text-decoration: none;
+    letter-spacing: 2px;
+    z-index: 1;
+    padding-bottom: 44px; 
+    
+}
+
+.quote
+{
+	width: 370px;	
+    height:190px;
+	float: left;
+	margin-right: 20px;
+	padding: 5px;
+	font-size: 30px;
+	font-family:'FranklinGothicBook', Arial, Helvetica, sans-serif;
+	line-height: 130%;
+}
+
+.window, .project
+{
+    width: 180px;
+    height: 200px;
+    margin: 0px 20px 20px 0px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.overlay
+{
+	position: absolute; 
+	background: rgba(0,0,0, 0.5);
+	width: 180px;
+    height:200px;
+	text-align:center;
+	top: 145px;	
+	padding: 5px;
+}
+
+#navigation
+{   
+    position:fixed; 
+}
+
+#navigation li
+{ 
+    height: 50px;
+    padding: 2px;
+    
+}
+
+#navigation li a
+{
+    display: block;    
+    float: left;
+    text-decoration: none;
+    padding: 10px 0px;
+}
+
+h4 a
+{
+    color: #000;
+}
+
+.galleryimg
+{
+    border:none;
+    text-decoration:none;
+}
+
+a.lightbox1 :hover, a.lightbox2 :hover , a.lightbox3 :hover , a.lightbox4 :hover , a.lightbox5 :hover , a.lightbox6 :hover  , a.lightbox7 :hover 
+{    
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.50);
+    -webkit-box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.50);
+}
+
+.highlight
+{
+    background-color: #f6f6f6;
+}
+
+.underline
+{
+    border-bottom: 1px solid black;
+}
+
+/*---------------------------------- GALLERY --------------------------------------------- */
+
+
+h3
+{
+	font-size: 18px;
+	font-weight:bold;
+	vertical-align: middle;
+	line-height: 120%;
+	text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-bottom: 5px;
+}
+
+h4
+{
+	vertical-align: middle;
+	line-height: 120%;
+	text-transform: uppercase;
+    font-size: 10px;
+    color: black;
+    margin-bottom: 40px;
+    padding-top: 7px;
+    letter-spacing: 2px;
+}
+
+
+
+li {
+list-style: none;
+}
+
+body
+{
+	text-align: left;
+	font-family: "trebuchet ms", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #262324;
+}
+
+div.heading
+{
+    width: 1000px;
+	margin: 10px auto;
+	padding: 25px 0px 0px 20px;
+}
+
+
+
+.main
+{
+    width: 980px;
+	margin: 50px auto 20px auto;
+}
+
+.descriptionOverlay
+{
+    padding-top:10px;
+	width: 980px;
+    height:100px;
+	text-align:center;	
+}
+
+
+.main p
+{
+    color:White;
+}
+
+.main h3 
+{
+    color:#EEE;
+    margin-bottom: 10px;
+}
+
+.main h4
+{
+    color:#888;
+    margin-bottom: 10px;
+    
+}
+
+
+img.grayscale:hover {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+}
+
+img.mainimage:hover {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+}
+
+
+.gallerycontent
+{
+	width: 980px;
+	overflow-x:hidden;
+	overflow-y:auto;
+	margin: 0px auto;
+	
+}
+
+.gallerycontent div
+{
+    float:left;
+    width: 300px;  
+}
+
+.galleryimg 
+{
+    width: 300px;
+}
+
+
+#middleGalleryDiv
+{
+    margin: 0px 40px;
+}
+
+
+section.Gallery_1
+{
+    min-height: 141px;
+    color:White;
+    background: #888;
+    font-size: 18px;
+    font-family: 'Nunito',sans-serif;
+    font-weight: 500;
+    height: 100%;
+    
+}
+.wrapper
+{
+    position:relative;   
+}
+
+.img_wrapper_1, .img_wrapper_2, .img_wrapper_3
+{
+    float:left;
+    display: block;
+}
+
+.img_wrapper_1
+{
+    height: 300px;
+}
+
+.img_wrapper_2
+{
+    height: 300px;
+}
+
+.img_wrapper_3
+{
+    height: 450px;
+}
+
+.facebook
+{
+    background-image: url('Images/facebook.png');
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+}
